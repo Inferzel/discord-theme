@@ -1,9 +1,9 @@
 /**
-  * @author Mixter213
-  * @name MixPack 2
-  * @version 1.1
-  * @description A pack that combines things I've created and liked the look of.
-**/
+  * @author Shy
+  * @name Shy
+  * @version 1.0
+  * @description Theme Pack SHY
+*/
 :root {
   --modal-background: rgba(40,42,44,0.8);
   --background-primary: rgba(30,32,34,0.8);
@@ -35,7 +35,7 @@ body {
   background: transparent;
 }
 .appMount_c99875 {
-  background: #000 url("https://lh3.googleusercontent.com/vwSawEdcDlSkCOqHzm3WSDlLqZp84tCwqTL2AG5dMTW482dIraImH4HgddKb1pw_UPocCnkkiZ2s5i5mBqc00Og60w=w640-h400-e365-rj-sc0x00ffffff") center/cover no-repeat;
+  background: #000 url("https://i.pinimg.com/564x/15/4b/b2/154bb23ca065df8c4dbbe157cee72ded.jpg") center/cover no-repeat;
 }
 .app_de4237 {
   background: transparent;
